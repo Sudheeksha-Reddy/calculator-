@@ -1,3 +1,4 @@
+// Simple calculator functions, used to practice CI on pull requests.
 export function add(a, b) {
   return a + b;
 }
